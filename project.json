@@ -1,0 +1,34 @@
+{
+    "sectionName":"Some Things I’ve Built",
+    "projectTitle":"Featured Project",
+    "project1":{
+        "img":"https://i.ibb.co/rk2wp2k/travel.png",
+        "name":"Travel Agency",
+        "description":"This Website help you easily Search your needed Travel Destination.Hotel services. Here you will also take your relevant Family Tour package. You can book your Tour Ticket advance from online.",
+        "tecnologys":"React.js Bootstrap-5 Firebase Express.js MongoDB",
+        "github":"https://github.com/NahidAhmed07/Travel-agency-client",
+        "githubServer":"https://github.com/NahidAhmed07/Travel-agency-server",
+        "liveSite":" https://travesia-travel.web.app/"
+
+    },
+    "project2":{
+        "img":"https://i.ibb.co/28XcyXZ/car-shop.png",
+        "name":"Car selling E-Commerce",
+        "description":"Car selling Website including admin panel. Option for Admin to manage all products And Delete and Edit Product. Option for Admin to manage all order Status And cancel Order. Customer Review Systems. Option for Admin to add a New Product.",
+        "tecnologys":"React.js Material-Ui Firebase Express.js MongoDB",
+        "github":"https://github.com/NahidAhmed07/car-selling-website-client",
+        "githubServer":"https://github.com/NahidAhmed07/car-selling-website-server",
+        "liveSite":" https://electro-car-shop.netlify.app/"
+
+    },
+    "project3":{
+        "img":"https://i.ibb.co/bBKFgNL/medical.png",
+        "name":"Hospital Managment System",
+        "description":"This Website help you easily Search your needed doctor Appointment. Help tp you Know Our Hospital services Details. This project is using for medical health facilities. you will find your every health problem solution.",
+        "tecnologys":"React.js Bootstrap-5 Firebase Context-Api",
+        "github":"https://github.com/NahidAhmed07/mediex.io-react-firebase-auth",
+        "githubServer":"https://github.com/NahidAhmed07/car-selling-website-server",
+        "liveSite":"https://mediex-assignment-10.web.app/"
+
+    }
+}

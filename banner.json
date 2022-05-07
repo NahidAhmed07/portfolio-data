@@ -1,0 +1,9 @@
+{
+    "getting":"Hi, my name is",
+    "name":"Nahid Ahmed.",
+    "animetedText":["Web Developer.","React Developer.","Front End Web Developer.","Front End Dev."],
+    "description":"I am Nahid Ahmed. Being interested to explore technologies I found web development as my passion. I am aspiring to bring that passion to a full-time role.",
+    "img":"https://i.ibb.co/P5m4vJx/n.jpg",
+    "buttontext":"Download my Resume",
+    "animationName":"fade-up"
+}

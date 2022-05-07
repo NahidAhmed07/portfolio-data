@@ -1,0 +1,23 @@
+{
+    "sectionName":"About Me",
+    "para1":{
+        "frist":"I’m Nahid Ahmed. I’m from Pabna Bangladesh. I’m currently pursuing a Diploma in computer science and engineering from",
+        "linkText":"Pabna Polytechnic Institute",
+        "linkAfter":", Pabna.",
+        "link":"http://ppi.pabna.gov.bd/"
+    },
+    "para2":{
+        "frist":"I have learned last two years a few web-related technologies and programming languages like HTML, CSS, Bootstrap, JavaScript, React.js, MaterialUI,",
+        "linkText":"Node Expresss.js",
+        "linkAfter":", MongoDB, and firebase Authentication system.",
+        "link":"https://nodejs.org/"
+    },
+    "para3":{
+        "frist":"While in love with JavaScript, my preference is to learn and adapt to popular frameworks, libraries, and packages in order to keep pace with the changing web environment.",
+        "linkText":"My GitHub Link",
+        "linkAfter":"",
+        "link":"https://github.com/NahidAhmed07"
+    },
+    "tecnologys":["JavaScript ES6+", "React.js","Node js", "MongoDB","MaterialUI","Bootstrap","Responsive Design"],
+    "img":"https://i.ibb.co/nLR9VNg/nahid.png"
+}
