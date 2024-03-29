@@ -18,6 +18,6 @@
         "linkAfter":"",
         "link":"https://github.com/NahidAhmed07"
     },
-    "tecnologys":[ "React.js","Node js", "Next.js","React Native","MongoDB","PostgreSQL","Express.js","Firebase Auth"],
+    "tecnologys":[ "React.js","Node js", "Next.js","React Native","WebRTC","PostgreSQL","Express.js","Firebase FCM"],
     "img":"https://i.ibb.co/Q6bn3h9/n.jpg"
 }
